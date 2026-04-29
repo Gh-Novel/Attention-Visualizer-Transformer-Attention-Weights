@@ -1,8 +1,5 @@
 ---
 title: Attention Visualizer
-emoji: 🧠
-colorFrom: purple
-colorTo: blue
 sdk: docker
 app_port: 7860
 pinned: false
@@ -24,12 +21,15 @@ An interactive visualization tool for exploring how transformer-based language m
 - **Dark glassmorphism UI** with smooth animations
 - LRU model cache — loads once, reuses across requests
 
+LIVE here : https://huggingface.co/spaces/NoobNovel/Attention_Visualizer
+
 ## Quick Start
 
 ```bash
 # One-shot launcher (installs deps + starts both servers)
 chmod +x start.sh && ./start.sh
 ```
+For local run:
 
 Then open **http://localhost:5173**
 
