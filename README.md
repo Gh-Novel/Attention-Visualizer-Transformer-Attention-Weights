@@ -21,7 +21,7 @@ An interactive visualization tool for exploring how transformer-based language m
 - **Dark glassmorphism UI** with smooth animations
 - LRU model cache — loads once, reuses across requests
 
-LIVE here : https://huggingface.co/spaces/NoobNovel/Attention_Visualizer
+LIVE here : https://huggingface.co/spaces/novelkathor/Attention_Visualizer
 
 ## Quick Start
 
